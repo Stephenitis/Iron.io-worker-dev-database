@@ -1,27 +1,11 @@
-# PostgreSQL. Versions 8.2 and up are supported.
-#
-# Install the pg driver:
-#   gem install pg
-# On OS X with Homebrew:
-#   gem install pg -- --with-pg-config=/usr/local/bin/pg_config
-# On OS X with MacPorts:
-#   gem install pg -- --with-pg-config=/opt/local/lib/postgresql84/bin/pg_config
-# On Windows:
-#   gem install pg
-#       Choose the win32 build.
-#       Install PostgreSQL and put its /bin directory on your path.
-#
-# Configure Using Gemfile
-# gem 'pg'
-#
 development:
   adapter: postgresql
   encoding: unicode
-  database: d2f7689b2far3j
+  database: d4ll54oldm83a
   pool: 5
-  username: tsgndzdhtfqmld
-  password: K9xCvvmswZb_-P4gO-bwgzEagk
-  host: ec2-107-20-165-44.compute-1.amazonaws.com
+  username: qknhunytalwdne
+  password: 027GdRHU8XGiAhiPXJqz3V2UIm
+  host: ec2-54-221-204-45.compute-1.amazonaws.com
   sslmode: require
 
   # Connect on a TCP socket. Omitted by default since the client uses a
